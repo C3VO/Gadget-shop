@@ -2,301 +2,301 @@
     {
         "id": 1,
         "title": "Смартфон iPhone 13",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 999.99
     },
     {
         "id": 2,
         "title": "Ноутбук Dell XPS 13",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 1299.99
     },
     {
         "id": 3,
         "title": "Планшет Samsung Galaxy Tab S7",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 799.99
     },
     {
         "id": 4,
         "title": "Смарт-часы Apple Watch Series 7",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 349.99
     },
     {
         "id": 5,
         "title": "Фотокамера Sony Alpha A7 III",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 1799.99
     },
     {
         "id": 6,
         "title": "Телевизор LG OLED CX",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 1499.99
     },
     {
         "id": 7,
         "title": "Наушники Bose QuietComfort 35 II",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 299.99
     },
     {
         "id": 8,
         "title": "Геймпад Xbox Series X",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 69.99
     },
     {
         "id": 9,
         "title": "Ультрабук Asus ZenBook 14",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 1199.99
     },
     {
         "id": 10,
         "title": "Смартфон Samsung Galaxy S21",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 899.99
     },
     {
         "id": 11,
         "title": "Наушники Sony WH-1000XM4",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 349.99
     },
     {
         "id": 12,
         "title": "Планшет Apple iPad Pro",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 799.99
     },
     {
         "id": 13,
         "title": "Смарт-часы Garmin Fenix 6",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 399.99
     },
     {
         "id": 14,
         "title": "Фотокамера Nikon D850",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 2499.99
     },
     {
         "id": 15,
         "title": "Телевизор Sony Bravia X900H",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 1099.99
     },
     {
         "id": 16,
         "title": "Смартфон Google Pixel 6",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 799.99
     },
     {
         "id": 17,
         "title": "Наушники JBL Quantum 800",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 199.99
     },
     {
         "id": 18,
         "title": "Ультрабук HP Spectre x360",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 1299.99
     },
     {
         "id": 19,
         "title": "Смартфон OnePlus 9 Pro",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 899.99
     },
     {
         "id": 20,
         "title": "Планшет Microsoft Surface Pro 7",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 899.99
     },
     {
         "id": 21,
         "title": "Смарт-часы Fitbit Versa 3",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 199.99
     },
     {
         "id": 22,
         "title": "Фотокамера Canon EOS R5",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 3499.99
     },
     {
         "id": 23,
         "title": "Телевизор Samsung QLED Q80T",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 1499.99
     },
     {
         "id": 24,
         "title": "Наушники Sennheiser HD 660 S",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 449.99
     },
     {
         "id": 25,
         "title": "Ультрабук Lenovo Yoga C940",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 1199.99
     },
     {
         "id": 26,
         "title": "Смартфон Xiaomi Mi 11",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 699.99
     },
     {
         "id": 27,
         "title": "Планшет Huawei MediaPad M5",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 399.99
     },
     {
         "id": 28,
         "title": "Смарт-часы Samsung Galaxy Watch 4",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 299.99
     },
     {
         "id": 29,
         "title": "Фотокамера Panasonic Lumix GH5",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 1999.99
     },
     {
         "id": 30,
         "title": "Телевизор Vizio OLED H1",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 1399.99
     },
     {
         "id": 31,
         "title": "Наушники Beats Studio3",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 249.99
     },
     {
         "id": 32,
         "title": "Ультрабук Acer Swift 3",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 899.99
     },
     {
         "id": 33,
         "title": "Смартфон Oppo Find X3 Pro",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 799.99
     },
     {
         "id": 34,
         "title": "Планшет Amazon Fire HD 10",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 149.99
     },
     {
         "id": 35,
         "title": "Смарт-часы Huawei Watch GT 2",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 129.99
     },
     {
         "id": 36,
         "title": "Фотокамера Fujifilm X-T4",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 1499.99
     },
     {
         "id": 37,
         "title": "Телевизор TCL 6-Series",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 999.99
     },
     {
         "id": 38,
         "title": "Наушники Sony WH-CH710N",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 149.99
     },
     {
         "id": 39,
         "title": "Ультрабук Microsoft Surface Laptop 4",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 1299.99
     },
     {
         "id": 40,
         "title": "Смартфон Realme 7 Pro",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 299.99
     },
     {
         "id": 41,
         "title": "Планшет Lenovo Tab M10",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 199.99
     },
     {
         "id": 42,
         "title": "Смарт-часы Amazfit Bip U Pro",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 69.99
     },
     {
         "id": 43,
         "title": "Фотокамера Olympus OM-D E-M1 Mark III",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 1699.99
     },
     {
         "id": 44,
         "title": "Телевизор Hisense H9G",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 899.99
     },
     {
         "id": 45,
         "title": "Наушники Anker Soundcore Life Q20",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 59.99
     },
     {
         "id": 46,
         "title": "Ультрабук LG Gram 17",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 1499.99
     },
     {
         "id": 47,
         "title": "Смартфон Vivo X60 Pro",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 499.99
     },
     {
         "id": 48,
         "title": "Планшет Asus ZenPad 3S 10",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 299.99
     },
     {
         "id": 49,
         "title": "Смарт-часы Casio G-Shock Rangeman",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 199.99
     },
     {
         "id": 50,
         "title": "Фотокамера Leica Q2",
-        "image": "images/gadgets-images.jpg",
+        "image": "/images/gadgets-images.jpg",
         "price": 4999.99
     }
 ]
