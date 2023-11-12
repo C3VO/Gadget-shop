@@ -1,26 +1,48 @@
 function Footer() {
   return (
     <div>
-      <footer className="flex flex-row bg-blue-300 h-10 mb-auto">
+      <footer className="flex flex-row bg-sky-950 text-white h-auto mb-auto mt-12 list-none">
         <div className="basis-1/5">
-          <li>About</li>
-          <li>About</li>
-          <li>About</li>
+          <p className="font-bold">Компании</p>
+          <li>
+            <a href="!#">Корпоративным клиентам</a>
+          </li>
+          <li>
+            <a href="!#">Оптовым клиентам</a>
+          </li>
         </div>
         <div className="basis-1/5">
-          <li>For Clients</li>
-          <li>For Clients</li>
-          <li>For Clients</li>
+          <p className="font-bold">Покупателям</p>
+          <li>
+            <a href="!#">Сервис и гарантия</a>
+          </li>
+          <li>
+            <a href="!#">Доставка и оплата</a>
+          </li>
+          <li>
+            <a href="!#">Программа лояльности</a>
+          </li>
+          <li>
+            <a href="!#">Подарочные сертификаты</a>
+          </li>
         </div>
         <div className="basis-1/5">
-          <li>map</li>
-          <li>map</li>
-          <li>map</li>
+          <p className="font-bold">Поддержка</p>
+          <li>
+            <a href="!#">Карта сайта</a>
+          </li>
         </div>
         <div className="basis-1/5">
-          <li>Shops</li>
-          <li>Shops</li>
-          <li>Shops</li>
+          <p className="font-bold">Магазины</p>
+          <li>
+            <a href="!#">Магазины сети</a>
+          </li>
+          <li>
+            <a href="!#">Служебный вход</a>
+          </li>
+          <li>
+            <a href="!#">Shops</a>
+          </li>
         </div>
         <div className="basis-1/5">
           <div>Callback</div>
