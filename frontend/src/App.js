@@ -8,7 +8,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <div className="max-w-7xl mx-auto bg-gray-200">
+    <div className="max-w-7xl mx-auto bg-gray-100">
       <Router>
         <Header />
         <Routes>

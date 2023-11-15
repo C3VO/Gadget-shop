@@ -36,7 +36,7 @@ function Goods() {
               </div>
 
               <button
-                className="text-white w-10/12 bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-br-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800 uppercase"
+                className="text-white w-10/12 bg-blue-300 hover:bg-blue-500 focus:ring-4 focus:ring-blue-300 font-medium rounded-br-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-300 dark:hover:bg-blue-600 focus:outline-none dark:focus:ring-blue-600 uppercase"
                 data-key={selectedGood.id}
               >
                 Купить
@@ -52,7 +52,7 @@ function Goods() {
                   <div>
                     <div>
                       <button
-                        className="text-blue-500"
+                        className="text-blue-300"
                         onClick={toggleVisibility}
                       >
                         Киев

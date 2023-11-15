@@ -2,7 +2,7 @@ function Footer() {
   return (
     <div>
       <footer className="flex flex-row bg-sky-950 text-white h-auto mb-auto mt-12 list-none">
-        <div className="basis-1/5">
+        <div className="basis-1/5 flex flex-col justify-between">
           <p className="font-bold">Компании</p>
           <li>
             <a href="!#">Корпоративным клиентам</a>
@@ -11,7 +11,7 @@ function Footer() {
             <a href="!#">Оптовым клиентам</a>
           </li>
         </div>
-        <div className="basis-1/5">
+        <div className="basis-1/5 flex flex-col justify-between">
           <p className="font-bold">Покупателям</p>
           <li>
             <a href="!#">Сервис и гарантия</a>
@@ -32,7 +32,7 @@ function Footer() {
             <a href="!#">Карта сайта</a>
           </li>
         </div>
-        <div className="basis-1/5">
+        <div className="basis-1/5 flex flex-col justify-between ">
           <p className="font-bold">Магазины</p>
           <li>
             <a href="!#">Магазины сети</a>
