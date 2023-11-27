@@ -1,5 +1,6 @@
 [
     {
+        "category": "Ноутбуки",
         "id": 1,
         "title": "НОУТБУК LENOVO IDEAPAD GAMING 3 15IHU6 (82K101F1PB)",
         "descript": "",
@@ -7,6 +8,7 @@
         "price": 29999
     },
     {
+        "category": "Мобильные телефоны",
         "id": 2,
         "title": "МОБИЛЬНЫЙ ТЕЛЕФОН SAMSUNG GALAXY A24 6/128GB BLACK (SM-A245FZKVSEK)",
         "descript": "",
@@ -14,6 +16,7 @@
         "price": 8999
     },
     {
+        "category": "Компьютеры и комплектующие",
         "id": 3,
         "title": "КОРПУС VINGA PILLAR BLACK BITCOIN (01230011783) ",
         "descript": "",
@@ -21,6 +24,7 @@
         "price": 2938
     },
     {
+        "category": "Акссесуары",
         "id": 4,
         "title": "ЗАРЯДНАЯ СТАНЦИЯ JACKERY EXPLORER 240EU (EXPLORER-240EU_)",
         "descript": "",
@@ -28,6 +32,7 @@
         "price": 8299
     },
     {
+        "category": "Телевизоры",
         "id": 5,
         "title": "ТЕЛЕВИЗОР VINGA S43FHD25B",
         "descript": "",
@@ -35,6 +40,7 @@
         "price": 7999
     },
     {
+        "category": "Акссесуары",
         "id": 6,
         "title": "КВАДРОКОПТЕР AUTEL EVO LITE PLUS PREMIUM BUNDLE (ORANGE) (102000720)",
         "descript": "",
@@ -42,6 +48,7 @@
         "price": 53000
     },
     {
+        "category": "Акссесуары",
         "id": 7,
         "title": "ФИТНЕС БРАСЛЕТ XIAOMI REDMI SMART BAND 2 GL BLACK ",
         "descript": "",
@@ -49,6 +56,7 @@
         "price": 999
     },
     {
+        "category": "Акссесуары",
         "id": 8,
         "title": "БАТАРЕЯ УНИВЕРСАЛЬНАЯ VINGA 10000 MAH BLACK (BTPB1910BK)",
         "descript": "",
@@ -56,6 +64,7 @@
         "price": 399
     },
     {
+        "category": "Акссесуары",
         "id": 9,
         "title": "СЕТЕВОЙ ФИЛЬТР ПИТАНИЯ COLORWAY CW-PSEA55BK, 5 РОЗЕТОК/ 5M BLACK (CW-PSEA55BK)",
         "descript": "",
@@ -63,6 +72,7 @@
         "price": 263
     },
     {
+        "category": "Компьютеры и комплектующие",
         "id": 10,
         "title": "КОМПЬЮТЕР VINGA ADVANCED D0023 (I3M8INT.D0023)",
         "descript": "",
@@ -70,6 +80,7 @@
         "price": 13732
     },
     {
+        "category": "Компьютеры и комплектующие",
         "id": 11,
         "title": "ПРОЦЕССОР INTEL PENTIUM G6405 (BX80701G6405) ",
         "descript": "",
@@ -77,6 +88,7 @@
         "price": 3128
     },
     {
+        "category": "Компьютеры и комплектующие",
         "id": 12,
         "title": "НАКОПИТЕЛЬ SSD 2.5'' 240GB KINGSTON (SA400S37/240G)",
         "descript": "",
@@ -84,6 +96,7 @@
         "price": 1069
     },
     {
+        "category": "Компьютеры и комплектующие",
         "id": 13,
         "title": "ВИДЕОКАРТА MSI GEFORCE RTX3050 8GB VENTUS 2X OC (RTX 3050 VENTUS 2X 8G OCV1)",
         "descript": "",
@@ -91,6 +104,7 @@
         "price": 9699
     },
     {
+        "category": "Компьютеры и комплектующие",
         "id": 14,
         "title": "МОНИТОР SAMSUNG LF24T450GYIXCI ",
         "descript": "",
@@ -98,6 +112,7 @@
         "price": 5999
     },
     {
+        "category": "Акссесуары",
         "id": 15,
         "title": "МАРШРУТИЗАТОР TP-LINK ARCHER-AX10",
         "descript": "",
@@ -105,6 +120,7 @@
         "price": 2199
     },
     {
+        "category": "Компьютеры и комплектующие",
         "id": 16,
         "title": "НАУШНИКИ VINGA HSCU-160 GAMING LED BLACK (HSCU-160)",
         "descript": "",
@@ -112,6 +128,7 @@
         "price": 749
     },
     {
+        "category": "Компьютеры и комплектующие",
         "id": 17,
         "title": "МЫШКА RAZER DEATHADDER ESSENTIAL USB BLACK (RZ01-03850100-R3M1)",
         "descript": "",
@@ -119,6 +136,7 @@
         "price": 1199
     },
     {
+        "category": "Планшеты",
         "id": 18,
         "title": "ПЛАНШЕТ LENOVO TAB M10 (3RD GEN) 4/64 LTE STORM GREY (ZAAF0011UA) ",
         "descript": "",
@@ -126,6 +144,7 @@
         "price": 7299
     },
     {
+        "category": "Акссесуары",
         "id": 19,
         "title": "МНОГОФУНКЦИОНАЛЬНОЕ УСТРОЙСТВО CANON I-SENSYS MF3010 + 2 КАРТРИДЖА (5252B034) ",
         "descript": "",
@@ -133,6 +152,7 @@
         "price": 11999
     },
     {
+        "category": "Бытовая техника",
         "id": 20,
         "title": "ХОЛОДИЛЬНИК HEINNER HCNF-V291WDF+",
         "descript": "",

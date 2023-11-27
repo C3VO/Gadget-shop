@@ -1,48 +1,56 @@
 function Footer() {
   return (
     <div>
-      <footer className="flex flex-row bg-sky-950 text-white h-auto mb-auto mt-12 list-none">
-        <div className="basis-1/5 flex flex-col justify-between">
+      <footer className="flex flex-row justify-around bg-sky-950 text-white h-40 mb-auto mt-12 list-none">
+        <div className="basis-1/5 flex flex-col ">
           <p className="font-bold">Компании</p>
-          <li>
-            <a href="!#">Корпоративным клиентам</a>
-          </li>
-          <li>
-            <a href="!#">Оптовым клиентам</a>
-          </li>
+          <ul>
+            <li>
+              <a href="!#">Корпоративным клиентам</a>
+            </li>
+            <li>
+              <a href="!#">Оптовым клиентам</a>
+            </li>
+          </ul>
         </div>
-        <div className="basis-1/5 flex flex-col justify-between">
+        <div className="basis-1/5">
           <p className="font-bold">Покупателям</p>
-          <li>
-            <a href="!#">Сервис и гарантия</a>
-          </li>
-          <li>
-            <a href="!#">Доставка и оплата</a>
-          </li>
-          <li>
-            <a href="!#">Программа лояльности</a>
-          </li>
-          <li>
-            <a href="!#">Подарочные сертификаты</a>
-          </li>
+          <ul className="flex flex-col justify-between">
+            <li>
+              <a href="!#">Сервис и гарантия</a>
+            </li>
+            <li>
+              <a href="!#">Доставка и оплата</a>
+            </li>
+            <li>
+              <a href="!#">Программа лояльности</a>
+            </li>
+            <li>
+              <a href="!#">Подарочные сертификаты</a>
+            </li>
+          </ul>
         </div>
         <div className="basis-1/5">
           <p className="font-bold">Поддержка</p>
-          <li>
-            <a href="!#">Карта сайта</a>
-          </li>
+          <ul>
+            <li>
+              <a href="!#">Карта сайта</a>
+            </li>
+          </ul>
         </div>
-        <div className="basis-1/5 flex flex-col justify-between ">
+        <div className="basis-1/5 flex flex-col">
           <p className="font-bold">Магазины</p>
-          <li>
-            <a href="!#">Магазины сети</a>
-          </li>
-          <li>
-            <a href="!#">Служебный вход</a>
-          </li>
-          <li>
-            <a href="!#">Shops</a>
-          </li>
+          <ul className="flex flex-col justify-around">
+            <li>
+              <a href="!#">Магазины сети</a>
+            </li>
+            <li>
+              <a href="!#">Служебный вход</a>
+            </li>
+            <li>
+              <a href="!#">Shops</a>
+            </li>
+          </ul>
         </div>
         <div className="basis-1/5">
           <div>Callback</div>
