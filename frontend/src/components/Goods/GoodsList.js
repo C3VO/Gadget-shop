@@ -1,12 +1,31 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { selectGoods } from "../../store/goodsSlice";
-import Goods from "./Goods";
 import { Link } from "react-router-dom";
+import {
+  fetchGoods,
+  selectGoods,
+  selectGoodsStatus,
+  selectGoodsError,
+} from "../../store/goodsSlice";
+import Goods from "./Goods";
 
 function GoodsList() {
   const goods = useSelector(selectGoods);
+  const status = useSelector(selectGoodsStatus);
+  const error = useSelector(selectGoodsError);
   const dispatch = useDispatch();
+
+  useEffect(() => {
+    dispatch(fetchGoods());
+  }, [dispatch]);
+
+  if (status === "loading") {
+    return <p>Loading...</p>;
+  }
+
+  if (status === "failed") {
+    return <p>Error: {error}</p>;
+  }
 
   return (
     <div className="flex flex-wrap bg-gray-100 px-7 py-2">
